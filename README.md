@@ -13,4 +13,4 @@ To deliver an interactive dashboard that visualizes and analyzes employee attrit
 - Are there identifiable patterns in attrition based on years of service?
 - How has attrition changed following recent HR policy changes or initiatives?
 
--Dashboard <a href="[https://bit.ly/3TmtJnf](https://github.com/Ashish-231/Data-Analysis-Dashboard/blob/main/Dashboard%20picture.png)">View Dashboard</a>
+- Dashboard <a href="[https://bit.ly/3TmtJnf](https://github.com/Ashish-231/Data-Analysis-Dashboard/blob/main/Dashboard%20picture.png)">View Dashboard</a>
