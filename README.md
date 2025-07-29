@@ -13,6 +13,6 @@ To deliver an interactive dashboard that visualizes and analyzes employee attrit
 - Are there identifiable patterns in attrition based on years of service?
 - How has attrition changed following recent HR policy changes or initiatives?
 
-- Dashboard <a href="[https://bit.ly/3TmtJnf](https://github.com/Ashish-231/Data-Analysis-Dashboard/blob/main/Dashboard%20picture.png")>View Dashboard</a>
+- Dashboard <a href="https://github.com/Ashish-231/Data-Analysis-Dashboard/blob/main/Dashboard%20picture.png">View Dashboard</a>
 ## Conclusion
 The Power BI HR Analytics Dashboard empowers organizations with actionable insights into employee attrition and workforce trends. By analyzing key metrics—such as attrition rate, tenure, department, and demographic factors—this dashboard enables HR professionals to identify high-risk areas, design targeted retention strategies, and drive more informed, data-driven decisions for long-term organizational success.
